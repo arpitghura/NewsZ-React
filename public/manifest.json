@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "NewsZ App",
+  "name": "NewsZ - Your Dialy Dose of News",
   "icons": [
     {
       "src": "favicon.ico",

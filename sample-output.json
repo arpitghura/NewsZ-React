@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Dale Steyn Retirement: Dale Steyn announces retirement from all forms of cricket | Cricket News - Times of India",
+            "description": "Cricket News: One of the greatest pacers to have played the game of cricket, Dale Steyn, on Tuesday announced his retirement from all forms of cricket.",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dale-steyn-announces-retirement-from-all-forms-of-cricket/articleshow/85796524.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-85796529,width-1070,height-580,imgsize-30544,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-08-31T10:48:00Z",
+            "content": "Announcement. https://t.co/ZvOoeFkp8w\r\n— Dale Steyn (@DaleSteyn62) 1630404448000"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "hindustantimes.com",
+            "title": "'Important for Virat Kohli to score big hundred': Salman Butt says 'India have to pull up their socks' - Hindustan Times",
+            "description": "After an emphatic 151 run win at Lord's in the 2nd Test, Virat Kohli-led Indian team lost the third Test at Headingley by an innings and 76 runs. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/important-for-virat-kohli-to-score-big-hundred-salman-butt-says-india-have-to-pull-up-their-socks-101630391286127.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/08/31/1600x900/Salman_Butt_Virat_Kohli_1630028554513_1630391615866.jpg",
+            "publishedAt": "2021-08-31T06:38:07Z",
+            "content": "Former Pakistan captain Salman Butt believes Indian batsmen Virat Kohli, Cheteshwar Pujara and Ajinkya Rahane must play big knocks for India to get back in a positive mindset in the Test series again… [+1733 chars]"
+        }
+    ]
+}
